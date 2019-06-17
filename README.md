@@ -70,6 +70,7 @@ docker run -d -e MY_VAR_COMMAND_ID='<your-command-id>' \
 ```
 
 For more information about handling docker containers, i refer to the [docker documentation](https://docs.docker.com/).
+
 **NOTE: For a list of all supported environment variables, check the table below**
 
 ### Remotely
