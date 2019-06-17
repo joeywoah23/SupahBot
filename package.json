@@ -5,7 +5,7 @@
   "main": "Bot.js",
   "scripts": {
     "start": "node Bot.js",
-    "test": "jest",
+    "test": "CI=true jest",
     "test:watch": "jest --watch"
   },
   "author": "Rasmus Kockum",
