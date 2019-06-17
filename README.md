@@ -52,7 +52,7 @@ The bot should be ran through docker. Docker handles all dependencies of the bot
 #### If you want to make changes to the bot
 - Clone/Fork this repository
 - In the terminal, place yourself in the directory where you cloned your fork/clone of this repository
-- Run the following commands
+- After any changes to the bot, run the following commands to rebuild and run it
 ```
 docker build . -t supahbot
 docker run -d -e MY_VAR_COMMAND_ID='<your-command-id>' \
