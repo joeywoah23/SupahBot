@@ -49,7 +49,7 @@ The bot should be ran through docker. Docker handles all dependencies of the bot
 
 ### Locally
 [Install docker](https://www.docker.com/)
-### If you want to make changes to the bot
+#### If you want to make changes to the bot
 - Clone/Fork this repository
 - In the terminal, place yourself in the directory where you cloned your fork/clone of this repository
 - Run the following commands
