@@ -70,8 +70,7 @@ docker run -d -e MY_VAR_COMMAND_ID='<your-command-id>' \
 ```
 
 For more information about handling docker containers, i refer to the [docker documentation](https://docs.docker.com/).
-
-**NOTE: You can provide more environment variables when running the docker container. Have a look at the Configuration env variables section for available variables**
+**NOTE: For a list of all supported environment variables, check the table below**
 
 ### Remotely
 There is a bunch of services online that allows deployment of docker containers. Some of them are even for free. I would recommend the following:
