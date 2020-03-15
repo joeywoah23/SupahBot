@@ -8,6 +8,9 @@
     "test": "CI=true jest",
     "test:watch": "jest --watch"
   },
+  "engines": {
+    "node": "6.x"
+  },
   "author": "Rasmus Kockum",
   "license": "ISC",
   "dependencies": {
